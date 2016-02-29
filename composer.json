@@ -1,0 +1,11 @@
+{
+  "name" : "magento-suffix-static-files",
+  "type" : "magento-module",
+  "license" : "OSL-3.0",
+  "homepage" : "https://github.com/jreinke/magento-suffix-static-files",
+  "description" : "Add a query parameter to js and css files to force refresh in browser.",
+  "require":{
+    "magento-hackathon/magento-composer-installer":"*"
+  }
+}
+
